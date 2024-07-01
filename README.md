@@ -24,3 +24,8 @@ Candidates who stood in more than one constituency
 **All these have been covered in python notebook where data analysis and cleaning has been done**
 
 A power bi dashboard has been made of the same insights.
+
+
+Final csv-https://github.com/rohansh4510/Indian-Election-2024-Data-Analysis/blob/main/Indian_result.csv
+Final python notebook-https://github.com/rohansh4510/Indian-Election-2024-Data-Analysis/blob/main/Indian_election_analysis.ipynb
+Final BI dashboard-https://github.com/rohansh4510/Indian-Election-2024-Data-Analysis/blob/main/IndianElection_dash.pbit
